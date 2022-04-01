@@ -1,0 +1,7 @@
+17:30:33.820 [main] INFO  resourses.base - Restricted User
+17:30:45.577 [main] INFO  resourses.base - Nonrestricted User
+17:32:24.800 [TestNG] INFO  resourses.base - Driver is initialize
+17:32:47.550 [TestNG] INFO  resourses.base - Navigate to home page
+17:33:10.003 [TestNG] INFO  resourses.base - Navigation Bar is display
+17:33:10.945 [TestNG] INFO  resourses.base - Restricted User
+17:33:19.528 [TestNG] INFO  resourses.base - Nonrestricted User
